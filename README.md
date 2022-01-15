@@ -32,6 +32,7 @@ My database have the following collection
 
 - recipe_collection
 
+
   - title
   - meal_type
   - difficulty_level
